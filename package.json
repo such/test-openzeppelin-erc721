@@ -1,0 +1,14 @@
+{
+  "name": "cryptofoot-blockchain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "adrien@sorare.co",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "openzeppelin-solidity": "OpenZeppelin/openzeppelin-solidity"
+  },
+  "devDependencies": {
+    "eth-gas-reporter": "^0.1.9"
+  }
+}
